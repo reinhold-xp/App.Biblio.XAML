@@ -1,0 +1,8 @@
+.DS_Store
+Biblio/Biblio/bin/*
+Biblio/Biblio/obj/*
+Biblio/Biblio.iOS/bin/*
+Biblio/Biblio.Android/bin/*
+Biblio/Biblio.iOS/obj/*
+Biblio/Biblio.Android/obj/*
+.vs/*
